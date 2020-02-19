@@ -24,7 +24,6 @@ ul li {
     text-align: center;
     /* flex-grow: 1; */
     width: 100px;
-
 }
 
 
@@ -38,14 +37,12 @@ ul li:nth-child(2) {
 ul li:nth-child(3) {
     background: #c7b600;
     align-self: flex-end;
-   
 }
 ul li:nth-child(4) {
     background: #a90077;
 }
 ul li:nth-child(5){
     background: #00a378;
- 
 }
 ul li:last-child {
     background: #00ea72;
